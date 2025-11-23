@@ -1,0 +1,14 @@
+ {
+    "articles": [
+        {
+            "id": 1,
+            "title": "title 1",
+            "description": "asfl fLwfkjm fsaFKLMSF L,MFasflm asffav fLwfkjmwf afqaf ffasfa v asvfa agvas ava"
+        },
+        {
+            "id": 2,
+            "title": "title 2",
+            "description": "asfl fLwfkjm fsaFKLMSF L,MFasflm asffav fLwfkjmwf afqaf ffasfa v asvfa agvas ava"
+        }
+    ]
+ }
